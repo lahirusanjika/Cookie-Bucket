@@ -138,7 +138,7 @@ class CookieBucketApp:
         """Grab cookie directly from paste2.org"""
         urls = {
             "RSMY": "https://gist.githubusercontent.com/lahirusanjika/a3df16917fc4549b074e5ac05e2f34cd/raw/075e5fb89f75dcfab40423522300d1342c52a9f8/rsmy_cookie.txt",
-            "Red Smith": "https://gist.githubusercontent.com/lahirusanjika/b2f8711b7f9373dd03f9690622c078e3/raw/8b53a6582becbe1ec0f1b224e547c4bca0c0a4e0/redsmith_cookie.txt"
+            "Red Smith": "https://gist.githubusercontent.com/lahirusanjika/de6336198f1518e66acf11899b63a505/raw/535e5e216f58da82f7643896f900906895b46ce6/redsmith_cookie.txt"
         }
         
         try:
