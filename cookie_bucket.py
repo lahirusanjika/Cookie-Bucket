@@ -137,8 +137,8 @@ class CookieBucketApp:
     def grab_cookie(self, cookie_type):
         """Grab cookie directly from paste2.org"""
         urls = {
-            "RSMY": "https://gist.githubusercontent.com/lahirusanjika/e771eca9fea34d11fd09e53992bb93b2/raw/6839b30a687a49a03482420ff670c62a06a92482/rsmy_cookie.txt",
-            "Red Smith": "https://gist.githubusercontent.com/lahirusanjika/de6336198f1518e66acf11899b63a505/raw/2d285039a2bf286f8748f692cb7464c0739d4916/redsmith_cookie.txt"
+            "RSMY": "https://gist.githubusercontent.com/lahirusanjika/e771eca9fea34d11fd09e53992bb93b2/raw/285dd7a0894e9db291d0b18d5a2260f2944287dd/rsmy_cookie.txt",
+            "Red Smith": "https://gist.githubusercontent.com/lahirusanjika/de6336198f1518e66acf11899b63a505/raw/bef2134c63f471462be249b6bf9493aac3aa2d20/redsmith_cookie.txt"
         }
         
         try:
